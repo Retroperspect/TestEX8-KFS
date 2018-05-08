@@ -1,0 +1,23 @@
+<parameters name="Triangle Tests">
+  <parameter name="A">
+    <parametervalue value="10" />
+    <parametervalue value="20" />
+    <parametervalue value="30" />
+    <parametervalue value="40" />
+    <parametervalue value="50" />
+  </parameter>
+  <parameter name="B">
+    <parametervalue value="10" />
+    <parametervalue value="20" />
+    <parametervalue value="30" />
+    <parametervalue value="40" />
+    <parametervalue value="50" />
+  </parameter>
+  <parameter name="C">
+    <parametervalue value="10" />
+    <parametervalue value="20" />
+    <parametervalue value="30" />
+    <parametervalue value="40" />
+    <parametervalue value="50" />
+  </parameter>
+</parameters>
